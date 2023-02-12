@@ -22,3 +22,4 @@ Exporta els gràfics com imatges o com HTML.
 - Exercici 3
 
 Proposa alguna visualització que creguis que pot resultar interessant.
+![Preu trimestral](https://user-images.githubusercontent.com/105788831/218335945-72d38185-fe8d-49aa-9bbd-dc9bff7c3de4.png)
