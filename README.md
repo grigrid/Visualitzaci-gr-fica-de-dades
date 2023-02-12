@@ -22,4 +22,5 @@ Exporta els gràfics com imatges o com HTML.
 - Exercici 3
 
 Proposa alguna visualització que creguis que pot resultar interessant.
-![Preu trimestral](https://user-images.githubusercontent.com/105788831/218335945-72d38185-fe8d-49aa-9bbd-dc9bff7c3de4.png)
+
+![Distribució preu lloguer mensual vs preu m2](https://user-images.githubusercontent.com/105788831/218336012-78a254bd-d8e6-476e-87af-9c508d9cd9f1.png)
