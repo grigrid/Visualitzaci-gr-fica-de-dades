@@ -1,4 +1,4 @@
-# Visualitzaci-gr-fica-de-dades
+# Visualitzacio grafica de dades
 Spring4 Tasca1
 
 - Exercici 1
